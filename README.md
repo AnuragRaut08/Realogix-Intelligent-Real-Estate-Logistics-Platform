@@ -136,5 +136,4 @@ Watch our presentation on YouTube (Link coming soon)
 - **Name:** Anurag Raut
 - **Email:** anuragtraut2003@gmail.com
 
-### Links
-- GitHub Repository: [Realogix Repository](https://github.com/your-username/real-estate-pricing)
+
