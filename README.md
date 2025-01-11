@@ -46,12 +46,12 @@ Our data is sourced from Kaggle's [USA Real Estate Dataset](https://www.kaggle.c
 
 3. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/real-estate-pricing.git
+   git clone https://github.com/AnuragRaut08/Realogix-Intelligent-Real-Estate-Logistics-Platform.git
    ```
 
 4. **Navigate to project directory**
    ```bash
-   cd real-estate-pricing
+   cd Realogix-Intelligent-Real-Estate-Logistics-Platform
    ```
 
 5. **Launch Jupyter Notebook**
