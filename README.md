@@ -1,4 +1,4 @@
-## Realogix: Intelligent Real Estate Logistics Platform
+# Realogix: Intelligent Real Estate Logistics Platform
 An intelligent system for real estate pricing analysis using Python and Jupyter Notebooks to predict pricing tiers through classification algorithms.
 
 ## Project Overview
